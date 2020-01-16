@@ -30,5 +30,5 @@ spring:
 #       defaultZone: http://eureka-test.com:8080/eureka/
      
 girl:
-  age: 1783
+  age: 178311
   name: liqun
