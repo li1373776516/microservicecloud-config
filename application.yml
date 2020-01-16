@@ -6,7 +6,7 @@ spring:
 spring:
   profiles: dev  #开发环境
   application:
-    name: microservicecloud-config-dev-bus
+    name: microservicecloud-config-dev-bus-amqp
 ---
 spring:
   profiles: test #测试环境
