@@ -9,10 +9,10 @@ spring:
   profiles: dev
   application:
     name: microservicecloud-config-client
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka-dev.com:8080/eureka/
+# eureka:
+#   client:
+#     service-url:
+#       defaultZone: http://eureka-dev.com:8080/eureka/
 girl:
   age: 18
   name: liqun
